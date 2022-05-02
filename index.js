@@ -12,7 +12,7 @@ $(document).ready(function () {
     }
   });
   console.log(userName);
-  // let dataText = "HELLO, " + "I HAVE SEND YOU A SPECIAL GIFT FOR YOU, *open this, enter your name, and see WHAT IS THIS!* this-->";
+  // let dataText = "HELLO, " + "I HAVE SEND A SPECIAL GIFT FOR YOU, *open this, enter your name, and see WHAT IS THIS!* this-->";
   // $(".whatsapp").attr("data-text") = dataText;
 
   /* --whatsapp share-*/
